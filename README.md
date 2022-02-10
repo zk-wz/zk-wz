@@ -4,7 +4,7 @@
 
 [![](https://img.shields.io/badge/iPhone-XS-999999?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
 
-### github状态
+### Github状态
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zk-wz)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zk-wz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
